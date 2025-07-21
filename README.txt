@@ -28,7 +28,7 @@ Free for personal and commercial use under the [CCA 3.0 license](https://html5up
 **Additional Credits**:
 - **Images**: Unsplash (CC0)
 - **Icons**: Font Awesome
-- **JS Tools**: jQuery, Scrollex, Responsive Tools
+- **JS Tools**: jQuery, Scrollex, Responsive Tools.
 
 ---
 
