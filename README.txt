@@ -3,7 +3,7 @@
 **Igniting Insight with Data**  
 This portfolio showcases data-driven solutions I've built using SQL, Power BI, R, Excel, and Python. From financial modeling to business intelligence and geospatial analytics, each project reflects my approach to turning complexity into clarity—and strategy into scale.
 
-Explore my live site: [https://felixjenajnr.github.io](https://felixjenajnr.github.io)
+Explore my live site: https://felixjenajnr.github.io
 
 ---
 
