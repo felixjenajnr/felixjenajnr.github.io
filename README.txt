@@ -1,32 +1,40 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Felix Jena – Professional Portfolio
 
+**Igniting Insight with Data**  
+This portfolio showcases data-driven solutions I've built using SQL, Power BI, R, Excel, and Python. From financial modeling to business intelligence and geospatial analytics, each project reflects my approach to turning complexity into clarity—and strategy into scale.
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+Explore my live site: [https://felixjenajnr.github.io](https://felixjenajnr.github.io)
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+---
 
-(* = not included)
+## Featured Projects
 
-AJ
-aj@lkn.io | @ajlkn
+- **Retail Analytics Case Study** – Explored store profitability and infrastructure impact across states using R, geospatial tools, and regression modeling.
+- **Flight Delay Prediction** – Modeled arrival delays based on departure time using linear regression on 300K+ flights.
+- **Strategic Cost Optimization in Africa** – Provided lease-to-own models and infrastructure insights for facilities across 5 countries.
 
+More projects coming soon.
 
-Credits:
+---
 
-	Demo Images:
-		Unsplash (unsplash.com)
+## About This Site
 
-	Icons:
-		Font Awesome (fontawesome.io)
+This site is built on the **Massively** template by HTML5 UP – a text-focused, article-oriented design with scroll effects and a full-screen background.
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+**Template Credit**:  
+Massively by [HTML5 UP](https://html5up.net) | @ajlkn  
+Free for personal and commercial use under the [CCA 3.0 license](https://html5up.net/license)
+
+**Additional Credits**:
+- **Images**: Unsplash (CC0)
+- **Icons**: Font Awesome
+- **JS Tools**: jQuery, Scrollex, Responsive Tools
+
+---
+
+## Contact
+
+📧 felixjenajnr@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/felixjenajnr)
+
+Let’s connect!
